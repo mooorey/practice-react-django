@@ -12,3 +12,6 @@ config_secret.yaml
 
 # Ignore database files
 db.sqlite3
+
+# Ignore Node.js modules
+node_modules/
